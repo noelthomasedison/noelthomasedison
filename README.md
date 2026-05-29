@@ -100,14 +100,12 @@ I build **production AI systems** — LangGraph agents, RAG pipelines, multi-ste
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/noelthomasedison/StockPilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=noelthomasedison&repo=StockPilot&theme=tokyonight&hide_border=true" alt="StockPilot" />
+      <a href="https://github.com/noelthomasedison/StockPilot">   
       </a>
       <p><strong>🤖 LangGraph multi-tool agent with deterministic intent routing.</strong> Bypasses LLM calls on simple queries to cut cost and latency; modular tool layer for prices, performance, comparisons, and news. Built in three weeks of first encountering LangGraph.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/noelthomasedison/PaperLens">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=noelthomasedison&repo=PaperLens&theme=tokyonight&hide_border=true" alt="PaperLens" />
       </a>
       <p><strong>📄 Production RAG pipeline for cited PDF Q&A.</strong> FAISS vector retrieval + hierarchical filtering; confidence-driven layer that switches between extractive and generative responses so the system can refuse to extrapolate when retrieval is weak.</p>
     </td>
@@ -115,13 +113,11 @@ I build **production AI systems** — LangGraph agents, RAG pipelines, multi-ste
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/noelthomasedison/ApplyMate-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=noelthomasedison&repo=ApplyMate-AI&theme=tokyonight&hide_border=true" alt="ApplyMate AI" />
       </a>
       <p><strong>☁️ Cloud-deployed multi-step AI agent.</strong> Deployed on Cloudflare Workers AI with stateful sessions via Durable Objects; React/TypeScript frontend, multi-step pipeline generating tailored CV bullets, cover letters, and interview questions.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/noelthomasedison/Athlete-Mood-Prediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=noelthomasedison&repo=Athlete-Mood-Prediction&theme=tokyonight&hide_border=true" alt="Athlete Mood Prediction" />
       </a>
       <p><strong>📊 End-to-end probabilistic ML with explainability.</strong> Global probabilistic model + 18 personalised athlete-specific models (46% Top-3, 0.50 F1). SHAP-style attributions and LLM-based natural-language summaries for non-expert end users.</p>
     </td>
@@ -129,7 +125,6 @@ I build **production AI systems** — LangGraph agents, RAG pipelines, multi-ste
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/noelthomasedison/NovaCastAI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=noelthomasedison&repo=NovaCastAI&theme=tokyonight&hide_border=true" alt="NovaCastAI" />
       </a>
       <p><strong>📢 FastAPI multi-platform GenAI content engine.</strong> Ingests multi-source news and auto-publishes platform-optimised posts across X, Telegram, and Discord. Multimodal (LLM text + Pillow image generation) with de-duplication and scheduling.</p>
     </td>
@@ -140,35 +135,6 @@ I build **production AI systems** — LangGraph agents, RAG pipelines, multi-ste
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=noelthomasedison&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noelthomasedison&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelthomasedison&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="160" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noelthomasedison&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noelthomasedison&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
 
 ---
 
