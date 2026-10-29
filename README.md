@@ -5,9 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Noel+Thomas+Edison+%F0%9F%91%8B;AI+Engineer+%E2%9C%A8;Builder+of+Production+AI+Systems+%F0%9F%9A%80;6+AI+Apps+Shipped+in+12+Months+%E2%9A%A1;MSc+AI+%26+ML+%40+Birmingham+%E2%80%94+Distinction+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
-<!-- Profile views + LinkedIn + Email -->
+<!-- LinkedIn + Email -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=noelthomasedison&label=Profile%20views&color=6E40C9&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/noel-thomas-edison-1920a41b7/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
