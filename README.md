@@ -130,14 +130,11 @@ I build **production AI systems** — LangGraph agents, RAG pipelines, multi-ste
       <p><em>Python · FastAPI · Docker</em></p>
       <p>Containerised REST service automating multi-source ingestion with de-duplication, scheduling and asynchronous processing, publishing platform-optimised output across several channels.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/noelthomasedison/legal-citation-graph-llm">MSc Research</a></h3>
-      <p><em>Python · Llama 3.3 70B · LegalBERT · BM25 · FAISS</em></p>
-      <p>When the evidence a question needs is scattered and linked only by cross-reference, ordinary search misses it. Citation graphs built over <strong>13,732 passages at 98.0% hand-audited precision</strong> lifted citation-dependent <strong>Recall@1 from 41.5% to 63.8%</strong> and faithfulness by 9.3 points. <a href="https://github.com/noelthomasedison/legal-citation-graph-summarization">Summarisation experiments →</a></p>
-    </td>
   </tr>
 </table>
-
+<h3>🔬 <a href="https://github.com/noelthomasedison/legal-citation-graph-llm">MSc Research</a></h3>
+      <p><em>Python · Llama 3.3 70B · LegalBERT · BM25 · FAISS</em></p>
+      <p>When the evidence a question needs is scattered and linked only by cross-reference, ordinary search misses it. Citation graphs built over <strong>13,732 passages at 98.0% hand-audited precision</strong> lifted citation-dependent <strong>Recall@1 from 41.5% to 63.8%</strong> and faithfulness by 9.3 points. <a href="https://github.com/noelthomasedison/legal-citation-graph-summarization">Summarisation experiments →</a></p>
 > One of the more useful findings was a negative one: reranking results by citation connection pushed genuinely relevant material *out* of the top ranks. Adding linked evidence as context helped, reordering by it did not — and I only knew because the evaluation ran on a sealed test set.
 
 ---
